@@ -93,9 +93,3 @@ Transfer
  ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/successful.jpg)
  
 
-## 🧑‍💻Team members
-- [Alisha Kamat](https://github.com/alisha-kamat) - alishakamat8@gmail.com
-- [Aayush Mehta](https://github.com/AayushM8) - aayush2002mehta@gmail.com
-- [Mann Shah](https://github.com/sphiinxxxx)- shahmann023@gmail.com
-- [Manali Malavade](https://github.com/Manali-malavade) - malavademanali@gmail.com
-- [Sanskruti Mahajan](https://github.com/sanskrutimahajan) - mahajansanskruti15@gmail.com
