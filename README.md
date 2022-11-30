@@ -16,15 +16,16 @@ Making an online banking website with a easy to use UI. Where everyone can an ma
 
 ## 💻Tech Stack
 
-*Client:* 
+Client: 
  - React 
- - Css 
+ - CSS 
  - Bootstrap
 
-*Server:* 
+Server: 
  - Nodejs 
  - Express 
  - MongoDB
+ - Mongo Atlas
 
 ## Future Prospects
  - Applying for loans
@@ -64,4 +65,10 @@ Transfer
  
  ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/successful.jpg)
  
+# Contributors:
+Yash Shah https://github.com/yashtony 
+Mann Shah https://github.com/MannShah31
+Deven Sharma https://github.com/devensharmaa 
 
+# Acknowledgement-
+We would like to thank Prof. Swapnil Pawar, Prof. Vaibhav Vasani and Prof. Gopal Sonune for their help throughout the project life cycle.
