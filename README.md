@@ -67,8 +67,10 @@ Transfer
  
 # Contributors:
 Yash Shah https://github.com/yashtony 
+/n
 Mann Shah https://github.com/MannShah31
-Deven Sharma https://github.com/devensharmaa 
+/n
+Deven Sharma https://github.com/devensharmaa
 
 # Acknowledgement-
-We would like to thank Prof. Swapnil Pawar, Prof. Vaibhav Vasani and Prof. Gopal Sonune for their help throughout the project life cycle.
+We would like to thank Prof. Gopal Sonune, Prof. Swapnil Pawar, Prof. Vaibhav Vasani and  for their help throughout the project life cycle.
