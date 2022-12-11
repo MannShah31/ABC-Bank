@@ -30,40 +30,6 @@ Server:
 ## Future Prospects
  - Applying for loans
  - Verifying user via OTP
-
-## 📸Screenshots
-
-The Home page
-
-![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Home.jpeg)
-
-Register
-
-![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Register.jpg)
-
-Login
-
-![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Login.jpg)
-
-Profile
-
-![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/profile.jpg)
-
-Transfer
-
-![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/Transfer.jpg)
- 
- Transfer sent:
-
- ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/transactionssent.jpg)
- 
- Transfer recieved
- 
- ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/transactionrecieved.jpg)
- 
- Successful Transaction
- 
- ![App Screenshot](https://github.com/AayushM8/THF-Bank/blob/main/client/src/assets/successful.jpg)
  
 # Contributors:
 Yash Shah https://github.com/yashtony 
